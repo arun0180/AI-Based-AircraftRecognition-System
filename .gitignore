@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+dataset/
+detector_dataset/
+runs/
+output/
+outputs/
+video_results/
+weights/
+*.pt
+*.log
