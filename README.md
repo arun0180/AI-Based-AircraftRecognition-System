@@ -14,7 +14,7 @@ Outputs:
 )
 ![Homepage](https://raw.githubusercontent.com/arun0180/AI-Based-AircraftRecognition-System/main/MQ-9_Reaper_Drone_7.jpg
 )
-![Homepage](https://raw.githubusercontent.com/arun0180/AI-Based-AircraftRecognition-System/main/Su-20_25.jpg
+![Homepage](https://raw.githubusercontent.com/arun0180/AI-Based-AircraftRecognition-System/main/Su-30_25.jpg
 )
 
 
@@ -240,5 +240,6 @@ BMS Institute of Technology & Management
 ⭐ If You Found This Useful
 
 Give this repository a ⭐ on GitHub.
+
 
 
