@@ -2,6 +2,9 @@
 Aircraft Detection using YOLOv8 and Classification using ResNet-50
 📌 Project Overview
 
+![Homepage](https://raw.githubusercontent.com/arun0180/EduTechz/main/AI-Based-AircraftRecognition-System/dashboard.jpg
+)
+
 This project presents an AI-based Aircraft Recognition System capable of detecting aircraft in images, videos, and real-time camera feeds and identifying their type automatically.
 
 The system uses:
@@ -224,3 +227,4 @@ BMS Institute of Technology & Management
 ⭐ If You Found This Useful
 
 Give this repository a ⭐ on GitHub.
+
