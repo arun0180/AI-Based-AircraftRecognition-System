@@ -1,5 +1,5 @@
 ✈️ AI-Based Aircraft Recognition System
-Aircraft Detection using YOLOv8 and Classification using ResNet-50
+Aircraft Detection using YOLOv8 and Classification using Keras
 
 >>>Google Drive Link Of Full Project:
    https://drive.google.com/drive/folders/149i_iHdHYb1TVz3OH6jZMLhLpTInKpq3
@@ -26,9 +26,9 @@ This project presents an AI-based Aircraft Recognition System capable of detecti
 
 The system uses:
 
-YOLOv8 for aircraft detection
+YOLOv8n for aircraft detection
 
-ResNet-50 (CNN with Transfer Learning) for aircraft classification
+Keras for aircraft classification
 
 The detection model locates aircraft using bounding boxes, and the classification model identifies the aircraft type with confidence scores.
 
@@ -55,7 +55,7 @@ Aviation research and analytics
 ✔ Modular architecture (detection + classification pipeline)
 
 🧠 Models Used
-1️⃣ YOLOv8 (Detection Model)
+1️⃣ YOLOv8n (Detection Model)
 
 Detects aircraft in an image
 
@@ -65,7 +65,7 @@ Provides confidence score
 
 Fast and suitable for real-time applications
 
-2️⃣ ResNet-50 (Classification Model)
+2️⃣ Keras(Classification Model)
 
 Deep Convolutional Neural Network
 
@@ -139,9 +139,9 @@ python app.py
 Open browser and go to:
 
 http://127.0.0.1:5000
-🔹 Train YOLOv8 Detector
+🔹 Train YOLOv8n Detector
 python scripts/train_detector.py
-🔹 Train ResNet Classifier
+🔹 Train Classifier
 python scripts/train_classifier.py
 🔹 Run Image Detection
 python scripts/recognize_image.py
